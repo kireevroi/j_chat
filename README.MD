@@ -2,7 +2,7 @@
 
 ## Description
 
-A small chat for interacting with other students.
+A small chat for interacting with other students. NOT SQL INJECTION SAFE YET
 
 ## Changelog
 
